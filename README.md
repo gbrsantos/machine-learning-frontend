@@ -1,6 +1,6 @@
 # Machine Learning Frontend
 
-Este pequeno projeto faz parte do MVP da Disciplina Qualidade de Software, segurança e sistemas inteligente.
+Este pequeno projeto faz parte do MVP da Disciplina Qualidade de Software, segurança e sistemas inteligentes.
 
 # Aplicação de machine learning em python
 Este projeto é uma interface que permite o input de arquivos, de novos dados a serem testados e conecta com a API  de machine learning,
